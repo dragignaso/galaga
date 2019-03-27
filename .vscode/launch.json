@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Galaga",
+            "request": "launch",
+            "mainClass": "Galaga",
+            "projectName": "galaga_9e8d1c5"
+        }
+    ]
+}
